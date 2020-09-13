@@ -5,7 +5,8 @@ A simple Geometry Dash API I made in Node.js.
 I made this api in 1 whole day. You can get infomation about levels, users, and songs.
 
 If you make any improvements or add any new functions to the api, gladly make a pull request.
-If you notice any issues, gladly report it in the Issues tab in this repository
+If you notice any issues, gladly report it in the Issues tab in this repository.
+If you wanna make a suggestion, make it as a issue. (btw if you were wondering, making a suggestion as a issue in the repository doesnt make it a issue.)
 
 ## How to use
 You can look in the javascript files (except levelComments.js cause it's stil work in progress)
