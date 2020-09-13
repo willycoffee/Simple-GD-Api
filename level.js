@@ -28,4 +28,4 @@ function getLevel(level) {
 })
 }
 
-getLevelNew(42584142)
+getLevel(42584142)
