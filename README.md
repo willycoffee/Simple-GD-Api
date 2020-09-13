@@ -32,3 +32,8 @@ FamryGd - teaching me how to request data from a server with the 'request' npm m
 
 
 have fun.
+
+
+> btw heres the beginning of it all lol.
+![Beginning of the api]
+(https://i.imgur.com/3EMX5UO.png)
