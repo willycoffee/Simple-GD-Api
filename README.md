@@ -1,18 +1,19 @@
 # Simple-GD-Api
 A simple Geometry Dash API I made in Node.js.
 
-# Info
+## Info
 I made this api in 1 whole day. You can get infomation about levels, users, and songs.
 
 If you make any improvements or add any new functions to the api, gladly make a pull request.
+If you notice any issues, gladly report it in the Issues tab in this repository
 
-# How to use
+## How to use
 You can look in the javascript files (except levelComments.js cause it's stil work in progress)
 
-# Documention
+## Documention
 You can take a look at the documention on the [wiki](https://github.com/willycoffee/Simple-GD-Api/wiki).
 
-# Example
+## Example
 A example for a level
 ```javascript
 getLevel(128)
@@ -28,7 +29,7 @@ A example for a song
 getSong(467339)
 ```
 
-# Credits
+## Credits
 Me - for making the api in the first place xd.
 FamryGd - teaching me how to request data from a server with the 'request' npm module and giving me the documention for the endpoints.
 
