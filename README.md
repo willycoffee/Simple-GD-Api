@@ -35,5 +35,4 @@ have fun.
 
 
 btw heres the beginning of it all lol.
-![Beginning of the api]
-(https://i.imgur.com/3EMX5UO.png)
+![Beginning of the api](https://i.imgur.com/3EMX5UO.png)
