@@ -9,7 +9,8 @@ If you notice any issues, gladly report it in the Issues tab in this repository.
 If you wanna make a suggestion, make it as a issue. (btw if you were wondering, making a suggestion as a issue in the repository doesnt make it a issue.)
 
 ## How to use
-You can look in the javascript files (except levelComments.js cause it's stil work in progress)
+You can look in the javascript files (except levelComments.js cause it's stil work in progress)<br/>
+You can get it by either cloning it with [git](https://git-scm.com/) or downloading it as a ZIP file.
 
 ## Documention
 You can take a look at the documention on the [wiki](https://github.com/willycoffee/Simple-GD-Api/wiki).
