@@ -2,7 +2,7 @@ const req = require("request");
 const atob = require("atob");
 
 function getLevel(level) {
-  req.post("http://boomlings.com/database/getGJLevels21.php", {form: {secret: "Wmfd2893gb7", str: levelID, type: 0
+  req.post("http://boomlings.com/database/getGJLevels21.php", {form: {secret: "Wmfd2893gb7", str: level, type: 0
 }}, (err, res, body) => {
   body = body.split(':')
 
