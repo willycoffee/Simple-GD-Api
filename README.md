@@ -32,11 +32,13 @@ getSong(467339)
 ```
 
 ## Credits
-Me - for making the api in the first place xd.
-FamryGd - teaching me how to request data from a server with the 'request' npm module and giving me the documention for the endpoints.
+Me - for making the api in the first place xd.<br/>
+@FamryAmri - teaching me how to request data from a server with the 'request' npm module and giving me the documention for the endpoints.<br/>
+@GDColon - his GDBrowser helped with half the api.<br/>
+@SMJSGaming - for the really helpful [documention](https://github.com/SMJSGaming/GDDocs).
 
 
-the beginning of the api and the first thing i tried was getting some info on the first gauntlet
+the beginning of the api and the first thing i tried was getting some info on the first gauntlet.
 
 
 ![Beginning of the api](https://i.imgur.com/3EMX5UO.png)
