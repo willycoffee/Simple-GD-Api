@@ -35,7 +35,7 @@ Me - for making the api in the first place xd.
 FamryGd - teaching me how to request data from a server with the 'request' npm module and giving me the documention for the endpoints.
 
 
-the beginning of the api and the first part about it.
+the beginning of the api and the first thing i tried was getting some info on the first gauntlet
 
 
 ![Beginning of the api](https://i.imgur.com/3EMX5UO.png)
