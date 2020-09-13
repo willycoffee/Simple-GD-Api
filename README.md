@@ -8,7 +8,7 @@ I made this api in 1 whole day. You can get infomation about levels, users, and 
 You can look in the javascript files (except levelComments.js cause it's stil work in progress)
 
 # Documention
-I'll make a documention in the wiki of this repo soon don't worry.
+You can take a look at the documention on the [wiki](https://github.com/willycoffee/Simple-GD-Api/wiki).
 
 # Example
 A example for a level
