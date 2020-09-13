@@ -6,9 +6,6 @@ function getLevel(level) {
 }}, (err, res, body) => {
   body = body.split(':')
 
-  let length = ['Tiny', 'Short', 'Medium', 'Long', 'XL']
-  let difficulty = { 0: 'Unrated', 10: 'Easy', 20: 'Normal', 30: 'Hard', 40: 'Harder', 50: 'Insane', 60: 'Demon'}
-
   const levelInfo = {
     levelID: body[1],
     levelName: body[3],
