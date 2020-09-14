@@ -26,7 +26,7 @@ A example for a user
 getUser(71)
 ```
 
-A example for a song (newgrounds is down rn so you cant do songs)
+A example for a song (nvm you can still do songs even though newgrounds is down)
 ```javascript
 getSong(467339)
 ```
