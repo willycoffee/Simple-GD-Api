@@ -28,7 +28,7 @@ A example for a user
 getUser(71)
 ```
 
-A example for a song (nvm you can still do songs even though newgrounds is down)
+A example for a song
 ```javascript
 getSong(467339)
 ```
