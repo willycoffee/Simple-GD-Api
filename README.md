@@ -10,7 +10,9 @@ If you wanna make a suggestion, make it as a issue. (btw if you were wondering, 
 
 ## How to use
 You can look in the javascript files (except levelComments.js cause it's stil work in progress)<br/>
-You can get it by either cloning it with [git](https://git-scm.com/) or downloading it as a ZIP file.
+You can get it by either cloning it with [git](https://git-scm.com/) or downloading it as a ZIP file.<br/>
+<br/>
+If you wanna change the server, go to the config.js file and change "http://boomlings.com/database/" to your gdps server.
 
 ## Documention
 You can take a look at the documention on the [wiki](https://github.com/willycoffee/Simple-GD-Api/wiki).
