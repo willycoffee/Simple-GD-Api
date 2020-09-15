@@ -1,7 +1,9 @@
 const req = require("request");
 
+const server = require('./config.js')
+
 function getUser(userID) {
-  req.post ("http://boomlings.com/database/getGJUserInfo20.php", { form: { secret: "Wmfd2893gb7",
+  req.post (server + "getGJUserInfo20.php", { form: { secret: "Wmfd2893gb7",
     targetAccountID: userID,}}, (err, res, body) => {
     let response = body.toString()
     response = response.split(':')
