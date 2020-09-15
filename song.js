@@ -1,7 +1,9 @@
 const req = require("request");
 
+const server = require('./config.js')
+
 function getSong(songID) {
-  req.post ("http://boomlings.com/database/getGJSongInfo.php", { form: { secret: "Wmfd2893gb7",
+  req.post (server + "getGJSongInfo.php", { form: { secret: "Wmfd2893gb7",
     songID: songID,}}, (err, res, body) => {
     let response = body.toString()
     response = response.split("~|~")
